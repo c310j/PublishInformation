@@ -13,6 +13,8 @@ knit        : slidify::knit2slides
 
 ## Deployed App
 
+- The Application allows the user to choose different variables via a drop down list to show how they affect miles per gallon. With the choosen variable graphs are produced to show the effect of the variable including a regression model to proof the initial graph is true.
+
 ### Part1: Shiny Application  
 - URL: *https://c310j.shinyapps.io/Developing-Data-Products/*
 - A shiny-App shows the relationship between variables and miles per gallon (MPG).
@@ -20,16 +22,10 @@ knit        : slidify::knit2slides
 ### Part2: Reproducible Pitch Presentation  
 - URL: *http://c310j.github.io/PublishInformation/index.html*
 
+### Part3: Source Code  
+- URL: *http://c310j.github.io/PublishInformation/index.html*
+
 --- 
-
-## What this application does
-
-- A menu driven navigation allows to switch between application functions
-
-- The Application allows the user to choose different variables via a drop down list to show how they affect miles per gallon. With the choosen variable graphs are produced to show the effect of the variable including a regression model to proof the initial graph is true.
-
-
----
 
 ## mtcars dataset - Description
 
