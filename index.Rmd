@@ -23,7 +23,7 @@ knit        : slidify::knit2slides
 - URL: *http://c310j.github.io/PublishInformation/index.html*
 
 ### Part3: Source Code  
-- URL: *http://c310j.github.io/PublishInformation/index.html*
+- URL: *https://github.com/c310j/Developing-Data-Products*
 
 --- 
 
