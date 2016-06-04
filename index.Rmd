@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
 
 ### Part1: Shiny Application  
 - URL: *https://c310j.shinyapps.io/Developing-Data-Products/*
-- A shiny-App shows the relationship between variables and miles per gallon (MPG).
+- A shiny-App that shows the relationship between variables and miles per gallon (MPG).
 
 ### Part2: Reproducible Pitch Presentation  
 - URL: *http://c310j.github.io/PublishInformation/index.html*
