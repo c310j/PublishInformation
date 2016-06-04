@@ -22,7 +22,7 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Application description
+## What this application does
 
 - A menu driven navigation allows to switch between application functions
 
